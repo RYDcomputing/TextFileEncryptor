@@ -1,2 +1,3 @@
 # TextFileEncryptor
 A homemade text file encryptor/decryptor written in Python using Caesar Cipher shift.
+Additional notes and documentation written in file.
